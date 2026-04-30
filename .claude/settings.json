@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Edit(/home/buck/GPS_injection/*)",
+      "Read(/home/buck/data/gps/**)"
+    ]
+  }
+}
