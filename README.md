@@ -121,3 +121,5 @@ Rogers, A. J., Morley, S. K., & Gattiker, J. (2024). *Energetic Electron Injecti
 ## License
 
 Apache 2.0. See `LICENSE`.
+
+Written with able assistance by Claude (Sonnet 4.6)
